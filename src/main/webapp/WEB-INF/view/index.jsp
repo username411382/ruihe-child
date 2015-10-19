@@ -7,6 +7,5 @@
 <title>第一个SpringMvc</title>
 </head>
 <body>
-        <c:out value="${index}"></c:out>  
 </body>
 </html>
